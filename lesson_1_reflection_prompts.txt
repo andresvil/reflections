@@ -1,0 +1,45 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    It saved me the tiring process of comparing every single line myself. If I 
+    know one of the versions worked, all I need is to compare what's different
+    between them.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    It is very common do have to do revisions and changes to a program for the
+    client. Having easy access to the version history would be essential if
+    the client decides they want to revert back to an older version. It also
+    helps with debugging purposes, since you can compare a working version to 
+    a dysfunctional one.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    The pros are that you control what to commit, which is not always a 
+    straight-forward decision. The biggest con is that you might forget to save.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    It's not common for Google Docs to have files that affect each other with
+    each change. In Git it's pretty common to have interlinked files that affect
+    each other when changed.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    Git log prints out all the history of commits done, including the commit
+    ID's, which are necessary for using the git diff command. With the git
+    diff command you can see what differs between file versions.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    It allows me to easily switch back to an older version that did not break
+    and compare it using 'git diff' to find out what might have caused it.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    Android apps.
