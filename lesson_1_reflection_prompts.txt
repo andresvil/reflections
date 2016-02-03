@@ -42,4 +42,5 @@ could break something?
 
 Now that you have your workspace set up, what do you want to try using Git for?
 
-    Android apps.
+    Mainly for keeping an organized and easily accessible history of any changes
+    I make to the first Android app I'm making.
