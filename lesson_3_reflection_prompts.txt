@@ -29,9 +29,14 @@ stored locally?
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    I would use DropBox or Google Drive and need to make my own versions and 
+    send each file named differently. It would be a lot more difficult to 
+    create branches and to keep track of names and edits.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    When working on something that absolutely needs to be separate from the master.
+    If it will be a lengthy or significant branch that cannot that would benefit
+    from being unaffected by the master branch and not affecting the master
+    branch either.
